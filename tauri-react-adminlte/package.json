@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tauri-apps/api": "^1.6.0",
+    "@types/node": "^20.14.10",
     "path": "^0.12.7",
     "pth": "^1.0.0",
     "react": "^18.3.1",
